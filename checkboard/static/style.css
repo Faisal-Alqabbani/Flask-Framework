@@ -1,0 +1,15 @@
+.row {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+.column {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
+.column2 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
